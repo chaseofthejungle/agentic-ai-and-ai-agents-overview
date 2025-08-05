@@ -4,16 +4,35 @@
 
 #### Table of Contents
 
-1. [Components](#components)
-2. [Supplemental Resources](#supplemental)
+1. [Components: AI Agents](#aiacomponents)
+2. [Characteristics: Agentic AI](#aaichars)
+3. [Supplemental Resources](#supplemental)
 
 <hr />
 
-## <a name="components">1. Components</a>
+## <a name="aiacomponents">1. Components: AI Agents</a>
 
+**TODO:** Components that will be addressed in this guide include:
+  
+* Chat bots
+* Virtual Assistants
+* Data Analysts
+* Access Tools 
+  
+<hr />
+
+## <a name="aaichars">2. Characteristics: Agentic AI</a>
+
+**TODO:** Characteristics that will be addressed in this guide include:
+  
+* Independence
+* Goal-Oriented Focus
+* Adaptability
+* Logical Reasoning
+  
 <hr />
   
-## <a name="supplemental">2. Supplemental Resources</a>
+## <a name="supplemental">3. Supplemental Resources</a>
   
 * *[GeeksForGeeks Article: 'Agentic AI vs. AI Agents'](https://www.geeksforgeeks.org/artificial-intelligence/agentic-ai-vs-ai-agents/)*
 * *[IBM Article: 'Agentic AI vs. generative AI'](https://www.ibm.com/think/topics/agentic-ai-vs-generative-ai)*
