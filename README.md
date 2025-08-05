@@ -15,6 +15,10 @@
   
 ## <a name="supplemental">2. Supplemental Resources</a>
   
+* *[GeeksForGeeks Article: 'Agentic AI vs. AI Agents'](https://www.geeksforgeeks.org/artificial-intelligence/agentic-ai-vs-ai-agents/)*
+* *[IBM Article: 'Agentic AI vs. generative AI'](https://www.ibm.com/think/topics/agentic-ai-vs-generative-ai)*
+* *[Moveworks Article: 'AI Agent vs. Agentic AI: Definitions, Comparison, and 5 Key Differences'](https://www.moveworks.com/us/en/resources/blog/agentic-ai-vs-ai-agents-definitions-and-differences)*
+  
 <hr />
   
 **TODO:** Overview of the conceptual components of AI Agents and Agentic AI. 
