@@ -6,7 +6,8 @@
 
 1. [Components: AI Agents](#aiacomponents)
 2. [Characteristics: Agentic AI](#aaichars)
-3. [Supplemental Resources](#supplemental)
+3. [The Bottom Line](#bottomline)
+4. [Supplemental Resources](#supplemental)
 
 <hr />
 
@@ -31,13 +32,17 @@
 * Logical Reasoning
   
 <hr />
+
+## <a name="bottomline">3. The Bottom Line</a>
   
-## <a name="supplemental">3. Supplemental Resources</a>
+* *AI Agents* are task-oriented utilities, and lack the independence and flexibility that Agentic AIs have. They are intended for specific purposes, such as accessing data, providing tutoring on a topic, or supplying base-level customer support.
+
+* *Agentic AIs* are more complex, autonomous, and architecturally sophisticated. 'Agentic AI', in and of itself, is an overarching principle or philosophy: AIs need to be able to process/'think', change, and behave with minimal external assistance. This limits reliance on prompts and predefined applicability/potential.
+
+<hr />
+
+## <a name="supplemental">4. Supplemental Resources</a>
   
 * *[GeeksForGeeks Article: 'Agentic AI vs. AI Agents'](https://www.geeksforgeeks.org/artificial-intelligence/agentic-ai-vs-ai-agents/)*
 * *[IBM Article: 'Agentic AI vs. generative AI'](https://www.ibm.com/think/topics/agentic-ai-vs-generative-ai)*
 * *[Moveworks Article: 'AI Agent vs. Agentic AI: Definitions, Comparison, and 5 Key Differences'](https://www.moveworks.com/us/en/resources/blog/agentic-ai-vs-ai-agents-definitions-and-differences)*
-  
-<hr />
-  
-**TODO:** Overview of the conceptual components of AI Agents and Agentic AI. 
