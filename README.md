@@ -4,21 +4,23 @@
 
 #### Table of Contents
 
-1. [Components: AI Agents](#aiacomponents)
+1. [Types: AI Agents](#typesaiagents)
 2. [Characteristics: Agentic AI](#aaichars)
 3. [The Bottom Line](#bottomline)
 4. [Supplemental Resources](#supplemental)
 
 <hr />
 
-## <a name="aiacomponents">1. Components: AI Agents</a>
+## <a name="typesaiagents">1. Types: AI Agents</a>
 
-**TODO:** Components that will be addressed in this guide include:
-  
-* Chat bots
-* Virtual Assistants
-* Data Analysts
-* Access Tools 
+AI agents are intended to serve specific domains, with clearly defined implementations. They are deployed as assistants or tools, and tend to be constructed from frameworks and/or toolchains.
+
+| Technology | Use Cases | Features | Examples |
+| :-----: | :-----: | :-----: | :-----: |
+| **Chat Bots** | Task-Specific/Rule-Based Customer Support Automation | Consistent, Fast, Generative Responses | AI Support Bots on Various Websites |
+| **Data Analysts** | Data Insights | Conversational, Domain-Based, Report Generating, Code Analyzing, Personal Tutoring | ChatGPT-integrated AI Analyst Bots |
+| **Access Tools** | Accessing Data from Apps and APIs Based on Structured Workflows/Prompts | Provides Access to Scope of Services/Technologies | Model Context Protocol (MCP) Agents |
+| **Virtual Assistants** | Performing Common/General Purpose Tasks and Services | Highly Portable Across Hardware/Software, Voice Recognition | Alexa, Grok, Siri, Meta AI |
   
 <hr />
 
