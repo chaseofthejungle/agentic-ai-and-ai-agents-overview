@@ -26,12 +26,14 @@ AI agents are intended to serve specific domains, with clearly defined implement
 
 ## <a name="aaichars">2. Characteristics: Agentic AI</a>
 
-**TODO:** Characteristics that will be addressed in this guide include:
-  
-* Independence
-* Goal-Oriented Focus
-* Adaptability
-* Logical Reasoning
+Agentic AIs are architecturally designed to be autonomous, artificially environment-conscious systems that are intended for complex decision-making, including for adaptive goals/outcomes. They do not rely on structured prompts, performing dynamically and independently.
+
+| Characteristic | Explanation | Examples |
+| :-----: | :-----: | :-----: |
+| Achievement-Oriented Focus | Accomplishes Goals Rather Than Simply Processing Tasks | Project Management and Research Agent AIs|
+| Adaptability | Adjusts Behavior Based on Results | User/System Feedback-Oriented Bots |
+| Independence | Behaves Autonomously Without Specific Instructions | Apps Embedded into Self-Contained Environments/Workflows |
+| Logical Reasoning | Can Artificially Think, Develop Plans, and Execute Plans | Complex Process Execution and Problem Solving |
   
 <hr />
 
