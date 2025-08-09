@@ -6,8 +6,9 @@
 
 1. [Types: AI Agents](#typesaiagents)
 2. [Characteristics: Agentic AI](#aaichars)
-3. [The Bottom Line](#bottomline)
-4. [Supplemental Resources](#supplemental)
+3. [Bottom-to-Top Framework: Agentic AI](#aaiframework)
+4. [The Bottom Line](#bottomline)
+5. [Supplemental Resources](#supplemental)
 
 <hr />
 
@@ -37,7 +38,13 @@ Agentic AIs are architecturally designed to be autonomous, artificially environm
   
 <hr />
 
-## <a name="bottomline">3. The Bottom Line</a>
+## <a name="aaiframework">3. Bottom-to-Top Framework: Agentic AI</a>
+
+(TODO)
+
+<hr />
+
+## <a name="bottomline">4. The Bottom Line</a>
   
 * *AI Agents* are task-oriented utilities, and lack the independence and flexibility that Agentic AIs have. They are intended for specific purposes, such as accessing data, providing tutoring on a topic, or supplying base-level customer support.
 
@@ -45,7 +52,7 @@ Agentic AIs are architecturally designed to be autonomous, artificially environm
 
 <hr />
 
-## <a name="supplemental">4. Supplemental Resources</a>
+## <a name="supplemental">5. Supplemental Resources</a>
   
 * *[GeeksForGeeks Article: 'Agentic AI vs. AI Agents'](https://www.geeksforgeeks.org/artificial-intelligence/agentic-ai-vs-ai-agents/)*
 * *[IBM Article: 'Agentic AI vs. generative AI'](https://www.ibm.com/think/topics/agentic-ai-vs-generative-ai)*
