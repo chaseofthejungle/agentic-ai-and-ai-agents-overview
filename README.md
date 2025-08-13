@@ -40,7 +40,42 @@ Agentic AIs are architecturally designed to be autonomous, artificially environm
 
 ## <a name="aaiframework">3. Bottom-to-Top Framework: Agentic AI</a>
 
-(TODO)
+*On a base-level, Agentic AI:*
+
+* **Develop Objectives**
+  + Process objectives and task goals are constructed in response to user's guidelines.
+* **Establish Understanding of Context** 
+  + Store data on task purposes/user's intentions, process environment, and the state of the user session. 
+* **Maintain Access to Previous Interactions**
+  + Must be able to instantly pull this data during task processing.
+* **Utilize Tools (e.g., API)**
+  + Tool selection is based on the provided prompts/instructions.
+* **Adhere to Predefined Instructions** 
+  + Consult the provided prompts in logically processing tasks *(Note: Although prompts are very much relevant to Agentic AI, the autonomous processing and problem solving abilities of Agentic AI go well beyond simply responding to predefined structures)*.
+
+*Then, they:*
+
+* **Strategize Their Reasoning**
+  + Condense processes using logical steps provided by programmed loops.
+* **Utilize Long-Term Memory**
+  + Provide additional context in assisting with problem solving.
+* **Take Action Within Their Systems**
+  + Evironmental events cause responses to be triggered, as task processing evolves.
+* **Behave as if 'Meta'**
+  + Analyze previous decisions and evolve to make more desirable decisions in response to future prompts.
+* **Reorder Goals**
+  + This is in response to new user data/requests.
+
+*Finally, they:*
+
+* **Independently Plan and Process**
+  + This supplies problem solving potential beyond that of traditional AI Agents.
+* **Coordinate with Other Systems**
+  + Delegation and distrubtion of problem solving provides communications and artificial 'leadership' in problem solving. This step also occurs after the next step, especially in consultation with APIs and other live response systems.
+* **Change Their Behavior**
+  + This is adaptive and based on learning algorithms, providing the appearance of higher-level intelligence.
+* **Autonomously Manage Themselves and Environmental Relationships**
+  + Objectives, resources, and tools are considered without direct coordination from a person. 
 
 <hr />
 
