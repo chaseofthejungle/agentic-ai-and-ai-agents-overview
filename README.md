@@ -28,7 +28,20 @@ AI agents are intended to serve specific domains, with clearly defined implement
 
 ## <a name="bestpracs">2. Best Practices: Designing AI Agents</a>
 
-(TODO)
+TODO: Finish table.
+
+| Issues | Obstacles | Solutions |
+| :-----: | :-----: | :-----: |
+| Action Execution and Task Delegation | |
+| Cloud and Traffic Considerations | |
+| Contextual Awareness | |
+| Data: Streams and Structure | |
+| Fine-Tuning and Monitoring for Performance | |
+| Generation Failure and Bug Fixing | |
+| Model-based Optimizations | |
+| Regulatory Compliance and Ethical Considerations | |
+| Updated Learning and Customizations | |
+| User Access Control and Authentication | |
 
 <hr />
 
