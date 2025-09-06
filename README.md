@@ -5,11 +5,12 @@
 #### Table of Contents
 
 1. [Types: AI Agents](#typesaiagents)
-2. [Best Practices: Designing AI Agents](#bestpracs)
-3. [Characteristics: Agentic AI](#aaichars)
-4. [Bottom-to-Top Framework: Agentic AI](#aaiframework)
-5. [The Bottom Line](#bottomline)
-6. [Supplemental Resources](#supplemental)
+2. [Components: AI Agents](#aiagentcomps)
+3. [Best Practices: Designing AI Agents](#bestpracs)
+4. [Characteristics: Agentic AI](#aaichars)
+5. [Bottom-to-Top Framework: Agentic AI](#aaiframework)
+6. [The Bottom Line](#bottomline)
+7. [Supplemental Resources](#supplemental)
 
 <hr />
 
@@ -26,7 +27,11 @@ AI agents are intended to serve specific domains, with clearly defined implement
   
 <hr />
 
-## <a name="bestpracs">2. Best Practices: Designing AI Agents</a>
+## <a name="aiagentcomps">2. Components: AI Agents</a>
+
+<hr />
+
+## <a name="bestpracs">3. Best Practices: Designing AI Agents</a>
 
 TODO: Finish table.
 
@@ -45,7 +50,7 @@ TODO: Finish table.
 
 <hr />
 
-## <a name="aaichars">3. Characteristics: Agentic AI</a>
+## <a name="aaichars">4. Characteristics: Agentic AI</a>
 
 Agentic AIs are architecturally designed to be autonomous, artificially environment-conscious systems that are intended for complex decision-making, including for adaptive goals/outcomes. They do not rely on structured prompts, performing dynamically and independently.
 
@@ -58,7 +63,7 @@ Agentic AIs are architecturally designed to be autonomous, artificially environm
   
 <hr />
 
-## <a name="aaiframework">4. Bottom-to-Top Framework: Agentic AI</a>
+## <a name="aaiframework">5. Bottom-to-Top Framework: Agentic AI</a>
 
 *On a base-level, Agentic AI:*
 
@@ -99,7 +104,7 @@ Agentic AIs are architecturally designed to be autonomous, artificially environm
 
 <hr />
 
-## <a name="bottomline">5. The Bottom Line</a>
+## <a name="bottomline">6. The Bottom Line</a>
   
 * *AI Agents* are task-oriented utilities, and lack the independence and flexibility that Agentic AIs have. They are intended for specific purposes, such as accessing data, providing tutoring on a topic, or supplying base-level customer support.
 
@@ -107,7 +112,7 @@ Agentic AIs are architecturally designed to be autonomous, artificially environm
 
 <hr />
 
-## <a name="supplemental">6. Supplemental Resources</a>
+## <a name="supplemental">7. Supplemental Resources</a>
   
 * *[GeeksForGeeks Article: 'Agentic AI vs. AI Agents'](https://www.geeksforgeeks.org/artificial-intelligence/agentic-ai-vs-ai-agents/)*
 * *[IBM Article: 'Agentic AI vs. generative AI'](https://www.ibm.com/think/topics/agentic-ai-vs-generative-ai)*
