@@ -5,7 +5,7 @@
 #### Table of Contents
 
 1. [Types: AI Agents](#typesaiagents)
-2. [Components: AI Agents](#aiagentcomps)
+2. [Pipeline: AI Agents](#aiagentpipe)
 3. [Best Practices: Designing AI Agents](#bestpracs)
 4. [Characteristics: Agentic AI](#aaichars)
 5. [Bottom-to-Top Framework: Agentic AI](#aaiframework)
@@ -27,7 +27,26 @@ AI agents are intended to serve specific domains, with clearly defined implement
   
 <hr />
 
-## <a name="aiagentcomps">2. Components: AI Agents</a>
+## <a name="aiagentpipe">2. Pipeline: AI Agents</a>
+
+The pipeline for AI Agents can be summarized as follows:
+
+1) **Input Handling and Immediate Output Generation**
+  * Users type prompts into AI UI interfaces (e.g., chat bots), with potential for conversational responses.
+  * Agents accept and handle the input, which could be of a variety of media (e.g., text, documents, audio, video, images).
+2) **Orchestration of AI**
+  * Frameworks, Software Development Kits (SDKs), and similar services that manage, monitor, and customize the functioning of the AI agent.
+  * LangChain's LangGraph, Google's ADK, and OpenAI's Agents are three popular examples of AI Agent frameworks.
+3) **Logic and Decision Making**
+  * AI Agents evaluate prompts, perform decision making, and summon tools as appropriate.
+  * Language Models (e.g., LLMs) are very important at this step.
+4) **Databases and APIs**
+  * Context provided by organizational data/data repositories (e.g., databases) and third-party API services.
+  * MCP protocols are employed to communicate between language models and MCP servers, which provide the data contexts.
+  * This is the fourth step of the pipeline centered around the Controller Agent.
+5) **Multi-Agent Communications**
+  * Protocols enable agents to interface and interoperate in real-time.
+  * This is still dependendent upon language models to feed formatted information to individual agents.
 
 <hr />
 
